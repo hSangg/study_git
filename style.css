@@ -26,14 +26,3 @@ html {
     inset 0 -2px 4px #ffffff80;
   z-index: 1;
 }
-
-.button_edit {
-  width: 100px;
-  height: 40px;
-  position: relative;
-}
-
-video {
-  width: 100px;
-  height: 40px;
-}
