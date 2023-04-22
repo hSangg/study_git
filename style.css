@@ -1,6 +1,17 @@
+html {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .button_edit::before {
-  content: attr("HELLO");
+  content: "HELLO";
   font-size: large;
+  line-height: 20px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
   position: absolute;
   top: 0;
   left: 0;
