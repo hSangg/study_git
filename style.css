@@ -10,7 +10,7 @@ html {
 }
 
 .button_edit::before {
-  content: "HELLO";
+  content: "Thằng Mặt L";
   font-size: large;
   line-height: 20px;
   text-align: center;
